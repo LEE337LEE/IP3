@@ -1,7 +1,6 @@
 **Design**
 
-Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
-Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.
+We offer a full range of services which include brand strategy, interaction, visual design as well as user experience testing through soliciting user feedback
 
 **Development**
 
