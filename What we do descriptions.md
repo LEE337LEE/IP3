@@ -3,9 +3,7 @@
 We offer a full range of services which include brand strategy, interaction, visual design as well as user experience testing through soliciting user feedback
 
 **Development**
-
-All engineers are fluent in the latest enterprise, mobile and web development technologies.
-They collaborate with your team to write, and improve code on a daily basis, using proven practices such as test-driven development and pair programming.
+Our higly skilled engineers will collaborate with your team to write and improve code ona a dily basis. Their expertise ranges from web development to mobile development technologies
 
 **Product Management**
 
